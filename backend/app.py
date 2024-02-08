@@ -1,4 +1,5 @@
-firepink-app/app.py
+ 
+backend/app.py
 
 
 from flask import Flask, jsonify
